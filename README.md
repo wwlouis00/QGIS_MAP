@@ -1,7 +1,5 @@
 # QGIS 介紹
 
-![QGIS Logo](https://www.qgis.org/en/_downloads/qgis-logo.svg)
-
 QGIS（全稱為Quantum GIS）是一個免費且開源的地理信息系統（GIS）軟體，提供了一個功能豐富且靈活的平台，用於進行地理數據的編輯、分析和可視化。以下是一份 QGIS 的介紹：
 
 ## 主要特點
