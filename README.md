@@ -1,5 +1,5 @@
 # QGIS 介紹
-
+![image](https://github.com/wwlouis00/QGIS_MAP/blob/main/%E7%B6%B2%E6%A0%BC%E6%95%B8%E5%80%BC%E5%9C%B0%E5%BD%A2%E6%A8%A1%E5%9E%8B/image/3D_MAP_.png)
 QGIS（全稱為Quantum GIS）是一個免費且開源的地理信息系統（GIS）軟體，提供了一個功能豐富且靈活的平台，用於進行地理數據的編輯、分析和可視化。以下是一份 QGIS 的介紹：
 
 ## 主要特點
